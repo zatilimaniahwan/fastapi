@@ -1,4 +1,4 @@
-# FastAPI
+# fastapi-complete
 
 ## Steps for installing FastAPI
 ### Fast API
